@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "A11473",
+      "name": "Max Mustermann",
+      "adresse": "Musterstraße 123, 12345 Musterstadt",
+      "telefonnummer": "+49 123 456789",
+      "email": "max.mustermann@example.com",
+      "passwort": "meinPasswort123"
+    },
+    {
+      "id": "A11474",
+      "name": "Erika Musterfrau",
+      "adresse": "Beispielweg 456, 67890 Beispielstadt",
+      "telefonnummer": "+49 987 654321",
+      "email": "erika.musterfrau@example.com",
+      "passwort": "geheimesPasswort456"
+    }
+  ]
+}
