@@ -1,0 +1,12 @@
+start apps 
+1. npm run build
+2. cd dist 
+3. app1         npx http-server . --port 8011 --cors
+4. searchbar    npx http-server . --port 8012 --cors
+
+start orchestrator 
+1. npm start -- --port 9000
+
+json-server 
+cd moked data
+json-server --watch users.json --port 3001
